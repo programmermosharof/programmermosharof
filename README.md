@@ -50,44 +50,57 @@
 </tr>
 </table>
 
-
-
-
-
-
 <!-- Tech Stack -->
 <h1 align="center">💻 Tech Stack</h1>
 
-<p align="center">
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend</h3>
 
-  <!-- 🌱 Core Foundations -->
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
-  <!-- ⚡ Programming -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
- <!-- ⚛️ Frontend Frameworks -->
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  
-  <br/> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
-    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
-<!-- 🛠 Backend & Database -->
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
+</p>
+
+<!-- Backend & Database -->
+<h3 align="center">⚙️ Backend & Database</h3>
+
+<p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=fff"/>
+</p>
 
-  <br/> 
+<!-- Authentication & Security -->
+<h3 align="center">🔐 Authentication & Security</h3>
 
+<p align="center">
+  <img alt="Better Auth" src="https://img.shields.io/badge/-Better_Auth-000000?style=for-the-badge"/>
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+</p>
 
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+<!-- Tools & Deployment -->
+<h3 align="center">🛠️ Tools & Deployment</h3>
 
-  <!-- 🔧 Tools -->
+<p align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
-
 </p>
+
+
+
+
 
 <!-- Social Links -->
 <h2 align="center">🌐 Let's Connect</h2>
