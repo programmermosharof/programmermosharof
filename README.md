@@ -33,12 +33,14 @@
 <td width="60%" valign="middle">
 <h2>👨‍💻 About Me</h2>
 <p>
-🚀  Frontend Developer growing towards Full Stack Development<br/>
-⚛️ Building modern & scalable apps with <strong>Next.js</strong> and React ecosystem<br/>
-💡 Passionate about smooth UX, performance, and clean UI implementation<br/>
-🧩 Writing maintainable code with reusable components mindset<br/>
-🌱 Currently exploring backend & full-stack architecture<br/><br/>
-📧 <strong>Contact Me :</strong> <a href="mailto:mosharof.dev@gmail.com">mosharof.dev@gmail.com</a><br/>
+🚀 MERN Stack Developer building modern, scalable full-stack web applications<br/>
+⚛️ Building responsive user interfaces with <strong>React.js</strong> and <strong>Next.js</strong><br/>
+⚙️ Developing REST APIs and backend systems with <strong>Node.js</strong> and <strong>Express.js</strong><br/>
+🍃 Working with <strong>MongoDB</strong> for data storage and application workflows<br/>
+🔐 Experienced with authentication, authorization, RBAC, and secure application flows<br/>
+🧩 Focused on clean code, reusable components, and maintainable application architecture<br/>
+🌱 Continuously improving my full-stack development and problem-solving skills<br/><br/>
+📧 <strong>Contact Me:</strong> <a href="mailto:mosharof.dev@gmail.com">mosharof.dev@gmail.com</a><br/>
 📍 Bangladesh 🇧🇩
 </p>
 </td>
